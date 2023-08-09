@@ -1,12 +1,15 @@
 {
   "id": 1345,
-  "course": "Testing",
-  "teacherName": "Cristian Ronald",
+  "course": "Desarrollo",
+  "teacherName": "Diego Silva",
   "students": [
-    { "name": "Juan", "lastname": "Golang", "age": 23 },
-    { "name": "Rita", "lastname": "Csharp", "age": 30 },
-    { "name": "Kowalski", "lastname": "Penguin", "age": 20 },
-    { "name": "Giannina", "lastname": "Lambda", "age": 26 },
-    { "name": "Mar", "lastname": "Cobol", "age": 29 }
+    { "name": "Valentina", "lastname": "Navia", "age": 27 },
+    { "name": "Facundo", "lastname": "Arellano", "age": 19 },
+    { "name": "Cesar", "lastname": "Calandria", "age": 18 },
+    { "name": "Karina", "lastname": "Alves", "age": 27 },
+    { "name": "Joaquín", "lastname": "Gutierrez", "age": 27 },
+    { "name": "Dominik", "lastname": "Bautista", "age": 19 },
+    { "name": "Ruben", "lastname": "Vera", "age": 21 },
+    { "name": "Patricio", "lastname": "Carbonell", "age": 24 }
   ]
 }
